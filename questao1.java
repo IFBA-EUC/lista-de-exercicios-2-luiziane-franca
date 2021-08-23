@@ -31,7 +31,6 @@ public class questao1 {
 
         System.out.println(X1);
         System.out.println(X2);
-
         
     }
 }
