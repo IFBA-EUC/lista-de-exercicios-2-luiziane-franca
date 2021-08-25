@@ -13,8 +13,7 @@ public class questao1 {
         x = (-2 +- raiz44)/ 2.5
         x1 = -2 + raiz44/ 10
         x2 = -2 - raiz44/10
-        */
-    
+        */    
 
         Scanner teclado = new Scanner(System.in);
         System.out.println("Digite o valor de a: ");
@@ -31,7 +30,7 @@ public class questao1 {
 
         System.out.println(X1);
         System.out.println(X2);
-        
-        
+
+        teclado.close();
     }
 }
